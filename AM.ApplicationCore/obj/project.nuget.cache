@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjrScfHMUHUBqZZXwEuDZc/QP46A8MTdPUcYWYjmHhB14ZKq89D0TSg3VFbCFWj/I+UkjIFEK1JyNTwMSAgm6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\AM.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
